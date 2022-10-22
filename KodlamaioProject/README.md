@@ -1,18 +1,14 @@
-## Getting Started
+kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.
 
-## Folder Structure
+Çoklu loglama yapısını simule ediniz.
 
-The workspace contains two folders by default, where:
+Aşağıdaki isterleri gerçekleştiriniz.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Kurs ismi tekrar edemez
+Kategori ismi tekrar edemez
+Bir kursun fiyatı 0 dan küçük olamaz
+Kodlarınızı github'a aktarınız
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Diğer arkadaşlarınızın kodlarını inceleyip beğenirseniz yıldızlayınız.
